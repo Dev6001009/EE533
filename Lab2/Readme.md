@@ -1,0 +1,2 @@
+This project follows the Xilinx ISE 10.1 In‑Depth Tutorial to design, simulate, and extend digital circuits using schematic-based design in the ISE CAD environment. All work is completed inside a provided Windows XP virtual machine with Xilinx ISE 10.1 installed, as this version supports the NetFPGA hardware.
+The assignment includes building and simulating several digital components without using IP cores, including a synchronous 8‑bit adder, a 32‑bit adder, and a full 32‑bit ALU. All schematics, simulations, and mapping results are generated using the ISE tools.
