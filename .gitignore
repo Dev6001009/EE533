@@ -1,3 +1,14 @@
 server
 client
 *.o
+*.o
+*.so
+*.out
+*.a
+*.exe
+build/
+obj/
+bin/
+__pycache__/
+*.pyc
+.ssh/
